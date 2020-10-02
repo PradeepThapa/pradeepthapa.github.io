@@ -1,12 +1,13 @@
 ﻿![profile](https://media-exp1.licdn.com/dms/image/C5603AQETIp0sl6SNDw/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=YYCOutvuD_a4Apg-Hhh2qjLpZrUY6MMJc86nGxb6MXY)
 
- # Pradeep Thapa
 
-**Whittington Vic 3219
+# Pradeep Thapa
 
-0434233725
+**Whittington Vic 3219**
 
-Email: pkthapa@outlook.com**
+**0434233725**
+
+**Email:** pkthapa@outlook.com
 
 **[LinkedIn](https://www.linkedin.com/in/pradeep-thapa-522424104/)  [GitHub](https://github.com/PradeepThapa)**
 
