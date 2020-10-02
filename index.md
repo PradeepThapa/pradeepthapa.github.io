@@ -21,11 +21,11 @@ Focused and quick-learning Software Engineer with over 2 years of experience in 
 
 **Data Visualization** - Create informative, actionable and repeatable reporting that highlights relevant business trends and opportunities for improvement.
 
-**Development** - Identify, design (Jaspersoft Studio), develop, test, validate and deploy (Jasperserver) new Jasper Reports
+**Development** - Identify, design (Jaspersoft Studio), develop, test, validate and deploy (Jasperserver) new Jasper Reports.
 
-**Operation** - Enhance existing reports and dashboards to improve performance and presentation
+**Operation** - Enhance existing reports and dashboards to improve performance and presentation.
 
-**Teamwork** - Work closely with our Product Build team, and our Customer Success team to quickly deliver reports & dashboards
+**Teamwork** - Work closely with our Product Build team, and our Customer Success team to quickly deliver reports & dashboards.
 
 **Database** - Create queries (Postgres) to provide ad hoc reports, analysis, and datasets based on business needs.
 
