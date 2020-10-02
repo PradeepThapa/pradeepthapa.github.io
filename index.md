@@ -61,28 +61,28 @@ Focused and quick-learning Software Engineer with over 2 years of experience in 
 
 ## Development Tools
 
- _git, github, pycharm, jupyter notebook, anaconda, DataGrip, Jaspersoft studio_
+ >git, github, pycharm, jupyter notebook, anaconda, DataGrip, Jaspersoft studio
 
-## Big Data tools
+## Big Data Tools
 
- _Spark, Hadoop, Hive, Pig_
+ >Spark, Hadoop, Hive, Pig
 
 ## Programming Language
 
- _Python, SQL, java(Intermidiate), C++ (INTERMIDIATE), C# (INTERMIDIATE)_
+ >Python, SQL, java(Intermidiate), C++ (INTERMIDIATE), C# (INTERMIDIATE)
 
-## Data analysis tools
+## Data Analysis Tools
 
- _pandas, numpy, pyspark_
+ >pandas, numpy, pyspark
 
-## Visualisation tools
+## Visualisation Tools
 
- _Matplotlib, seaborn, jaspersoft_
+ >Matplotlib, Seaborn, Jaspersoft
 
-## Machine learning tools
+## Machine Learning Tools
 
- _Tensorflow, sckit-learn, WEKA_
+ >Tensorflow, Sckit-learn, WEKA
 
-## Cloud platforms
+## Cloud Platforms
 
- _microsoft azure, jasperserver_
+ >Microsoft Azure, Jasperserver
