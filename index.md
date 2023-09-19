@@ -1,11 +1,11 @@
 # Pradeep Thapa
-<img src="pthapa_lrg.jpg" alt="profile" style="width:200px;"/>
+<img src="assets/pthapa_lrg.jpg" alt="profile" style="width:200px;"/>
 
 **Melbourne, Victoria**
 
 **Phone**: **0434233725** | **Email:** <pkthapa@outlook.com>
 
-<a href="https://www.linkedin.com/in/pradeep-thapa-522424104/" target="_blank"><img src="in.png" alt="LinkedIn" width="30"></a> <a href="https://github.com/PradeepThapa" target="_blank"><img src="git.png" alt="GitHub" width="30"></a>
+<a href="https://www.linkedin.com/in/pradeep-thapa-522424104/" target="_blank"><img src="assets/in.png" alt="LinkedIn" width="30"></a> <a href="https://github.com/PradeepThapa" target="_blank"><img src="assets/git.png" alt="GitHub" width="30"></a>
 
 # Summary
 
