@@ -2,7 +2,6 @@
 
 **`Machine Learning Engineer`**
 
-
 Welcome to my GitHub profile! I'm deeply passionate about the dynamic and ever-evolving world of Data Science and Machine Learning. Here, you'll discover a collection of my work, projects, and contributions that reflect my dedication to these exciting fields.
 
 I'm deeply passionate about the dynamic and ever-evolving world of Data Science and Machine Learning. Here, you'll discover a collection of my work, projects, and contributions that reflect my dedication to these exciting fields. 📊🤖
