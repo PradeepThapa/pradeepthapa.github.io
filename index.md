@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 <img src="pthapa_lrg.jpg" alt="profile" style="width:200px;"/>
 
 # Pradeep Thapa
