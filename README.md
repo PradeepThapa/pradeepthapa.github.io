@@ -1,3 +1,5 @@
+[![Deployment](https://github.com/PradeepThapa/pradeepthapa.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/PradeepThapa/pradeepthapa.github.io/actions/workflows/jekyll-gh-pages.yml)
+
 # 👋 Hi, I'm Pradeep!
 
 **`Machine Learning Engineer`**
