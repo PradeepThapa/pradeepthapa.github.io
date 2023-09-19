@@ -1,12 +1,7 @@
----
-permalink: /index.html
----
-
+# Pradeep Thapa
 <img src="pthapa_lrg.jpg" alt="profile" style="width:200px;"/>
 
-# Pradeep Thapa
-
-**Melbourne**
+**Melbourne, Victoria**
 
 **Phone**: **0434233725** | **Email:** <pkthapa@outlook.com>
 
