@@ -1,4 +1,4 @@
-[![Deployment](https://github.com/PradeepThapa/pradeepthapa.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/PradeepThapa/pradeepthapa.github.io/actions/workflows/jekyll-gh-pages.yml)
+[![Deployment](https://github.com/PradeepThapa/pradeepthapa.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=master)](https://github.com/PradeepThapa/pradeepthapa.github.io/actions/workflows/jekyll-gh-pages.yml)
 
 # 👋 Hi, I'm Pradeep!
 
