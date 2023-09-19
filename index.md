@@ -1,4 +1,4 @@
-![profile](https://media.licdn.com/dms/image/D5603AQGLUty41rdG_g/profile-displayphoto-shrink_400_400/0/1692942085351?e=1700697600&v=beta&t=7Y3vLh-DTPThpds7hMX30ewe2nvm7OLQEqCWdkKsX0Y)
+<img src="pthapa_lrg.jpg" alt="profile" style="width:200px;"/>
 
 # Pradeep Thapa
 
@@ -6,7 +6,7 @@
 
 **Phone**: **0434233725** | **Email:** <pkthapa@outlook.com>
 
-**[LinkedIn](https://www.linkedin.com/in/pradeep-thapa-522424104/) [GitHub](https://github.com/PradeepThapa)**
+<a href="https://www.linkedin.com/in/pradeep-thapa-522424104/" target="_blank"><img src="in.png" alt="LinkedIn" width="30"></a> <a href="https://github.com/PradeepThapa" target="_blank"><img src="git.png" alt="GitHub" width="30"></a>
 
 # Summary
 
